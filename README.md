@@ -24,3 +24,4 @@ To run this project on your local machine, follow these steps:
 
    Run the App: Launch the application by running the main entry file: python guncelmain.py
    Developed by: Merve Ciltepe
+![Uygulama Ekran Görüntüsü](Duygu_gunlugu.png)
